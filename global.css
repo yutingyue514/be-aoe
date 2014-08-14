@@ -11,6 +11,10 @@ body{
 	background-color: royalblue;
   height: 100%;
   margin-left: 200px;
+  /*
+  background: radial-gradient(circle, white 15%, transparent 40%), royalblue;
+  background: -moz-radial-gradient(circle, white 15%, transparent 40%), royalblue; 
+  background: -webkit-radial-gradient(circle, white 15%, transparent 40%), royalblue;*/
 }
 .toptext{
   text-align: center;
